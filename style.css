@@ -1,0 +1,59 @@
+html
+{
+    height: 100%;
+}
+body
+{
+    background: linear-gradient(#c4f8ff, #ffffff);
+}
+h1
+{
+    font-family: 'Titan One', cursive;
+    color: red;
+    font-weight: 50%;
+}
+input
+{
+    border-style: line;
+    border-color: grey;
+    border-radius: 100px;
+}
+button
+{
+    font-family: 'Oswald', sans-serif;
+}
+.main
+{
+    font-family: 'Oswald', sans-serif;
+}
+h3
+{
+    font-family: 'Oswald', sans-serif;
+}
+#output
+{
+    border-radius: 10px;
+    border-top: 10px solid blue;
+    border-right: 10px solid blue;
+    border-left: 10px solid blue;
+    border-bottom: 10px solid blue;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+#question
+{
+    font-family: 'Oswald', sans-serif;
+}
+#check
+{
+    background: green;
+    color: white;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+}
+.wat
+{
+    font-size: 130%;
+}
